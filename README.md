@@ -1,2 +1,2 @@
 # challenge-1
-Too refractor a starter code to make it more accessible and optimized for search engine compatability.
+Purpose of assingment was to refractor starter code to make it more accessible and optimized for search engine compatability by implementing semantic elements and reducing amount of code needed to achieve the same displayed website.
